@@ -11,7 +11,6 @@ async function main() {
 		 * - macOS: Visual Studio Code - Insiders.app/Contents/MacOS/Electron
 		 * - Linux: VSCode-linux-x64/code-insiders
 		 */
-
 		const vscodeExecutablePath = '/Users/pine/Desktop/Visual Studio Code - Insiders.app/Contents/MacOS/Electron';
 
 		// The folder containing the Extension Manifest package.json
